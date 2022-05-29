@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="fetch" />
       <item value="gist" />
       <item value="Typescript Component Folding: This plugin groups files which have same name and different extensions. File name groupings: component|service|pipe|guard|directive|actions|effects|reducer|selectors|state|resolver|datasource|model Extensions folded: css|sass|scss|stylus|styl|less|html|haml|pug|ts|js|json|spec\.ts|.\.ts For instance, app.component.ts, app.component.css, app.component.html, app.component..ts will be grouped a virtual folder named app.component." />
       <item value="payload" />
@@ -55,11 +56,10 @@
       <item value="rect" />
       <item value="create Protocol" />
       <item value="assign" />
-      <item value="constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
+        <entry key="CHINESE" value="405" />
         <entry key="ENGLISH" value="368" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
