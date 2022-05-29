@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="妈妈" />
       <item value="Prototype" />
       <item value="fetch" />
       <item value="gist" />
@@ -55,12 +56,11 @@
       <item value="scoped" />
       <item value="node Integration" />
       <item value="rect" />
-      <item value="create Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
