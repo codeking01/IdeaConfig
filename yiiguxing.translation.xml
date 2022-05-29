@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="hook" />
+      <item value="Category List" />
       <item value="妈妈" />
       <item value="Prototype" />
       <item value="fetch" />
@@ -54,13 +56,11 @@
       <item value="get Primary Display" />
       <item value=" CSS Pre-processor?" />
       <item value="scoped" />
-      <item value="node Integration" />
-      <item value="rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
