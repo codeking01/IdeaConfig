@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="Prototype" />
       <item value="fetch" />
       <item value="gist" />
       <item value="Typescript Component Folding: This plugin groups files which have same name and different extensions. File name groupings: component|service|pipe|guard|directive|actions|effects|reducer|selectors|state|resolver|datasource|model Extensions folded: css|sass|scss|stylus|styl|less|html|haml|pug|ts|js|json|spec\.ts|.\.ts For instance, app.component.ts, app.component.css, app.component.html, app.component..ts will be grouped a virtual folder named app.component." />
@@ -55,11 +56,10 @@
       <item value="node Integration" />
       <item value="rect" />
       <item value="create Protocol" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
+        <entry key="CHINESE" value="406" />
         <entry key="ENGLISH" value="368" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
