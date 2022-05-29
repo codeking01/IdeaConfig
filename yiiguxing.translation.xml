@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="442" />
+    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogX" value="542" />
+    <option name="newTranslationDialogY" value="33" />
+    <histories>
+      <item value="gist" />
+      <item value="Typescript Component Folding: This plugin groups files which have same name and different extensions. File name groupings: component|service|pipe|guard|directive|actions|effects|reducer|selectors|state|resolver|datasource|model Extensions folded: css|sass|scss|stylus|styl|less|html|haml|pug|ts|js|json|spec\.ts|.\.ts For instance, app.component.ts, app.component.css, app.component.html, app.component..ts will be grouped a virtual folder named app.component." />
+      <item value="payload" />
+      <item value="pay" />
+      <item value="Noncompliant; have we forgotten '+' operator on previous line?" />
+      <item value="Noncompliant; was assignment intended?" />
+      <item value="Any statement (other than a null statement, which means a statement containing only a semicolon ;) which has no side effect and does not result in a change of control flow will normally indicate a programming error, and therefore should be refactored." />
+      <item value="减" />
+      <item value="jian" />
+      <item value="mutations" />
+      <item value="完成三级联动模块" />
+      <item value="完成三级联动" />
+      <item value="完成三级联动b" />
+      <item value="transpile Dependencies" />
+      <item value="toUpperCase" />
+      <item value="toUpperCase()" />
+      <item value="pilot" />
+      <item value="copilot" />
+      <item value="Runtime directive used on component with non-element root node. The directives will not function as intended. " />
+      <item value="分类" />
+      <item value="fenlei" />
+      <item value="学习通" />
+      <item value="scratches" />
+      <item value="scrat" />
+      <item value="scra" />
+      <item value="parameter" />
+      <item value="param" />
+      <item value="pa" />
+      <item value="变量" />
+      <item value="bian'l" />
+      <item value="l" />
+      <item value="swipe" />
+      <item value="swip" />
+      <item value="s'w" />
+      <item value="mock" />
+      <item value="The &lt;template&gt; HTML element is a mechanism for holding HTML that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript. Think of a template as a content fragment that is being stored for subsequent use in the document. While the parser does process the contents of the &lt;template&gt; element while loading the page, it does so only to ensure that those contents are valid; the element's contents are not rendered, however." />
+      <item value="A Jetbrains plugin providing shortcuts to open or copy a file, directory or commit in GitHub, Bitbucket, GitLab, Gitee Gitea, Gogs or Azure. Custom hosts can also be configured using the URL template syntax." />
+      <item value="Adds ability to work with GitExtensions application from IDEs based on the IntelliJ platform" />
+      <item value="Extends Git Integration with additional features: project view decoration, inline blame and much more Status display, auto fetch, inline blame annotation, commit dialog completion, behind notifications and more..." />
+      <item value="提取" />
+      <item value="daochu " />
+      <item value="Ready" />
+      <item value="get Primary Display" />
+      <item value=" CSS Pre-processor?" />
+      <item value="scoped" />
+      <item value="node Integration" />
+      <item value="rect" />
+      <item value="create Protocol" />
+      <item value="assign" />
+      <item value="constructor" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="368" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1653702942374" />
+  </component>
+</application>
