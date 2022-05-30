@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="480" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="构效关系实验室" />
+      <item value="构效关系" />
       <item value="animate animated" />
       <item value="插件" />
       <item value="Programmatically navigate to a new URL by replacing the current entry in the history stack" />
@@ -54,13 +56,11 @@
       <item value="scra" />
       <item value="parameter" />
       <item value="param" />
-      <item value="pa" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="420" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
