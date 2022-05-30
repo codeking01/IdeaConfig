@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="dataset" />
+      <item value="data" />
       <item value="throttle" />
       <item value="thro" />
       <item value="th" />
@@ -54,12 +56,10 @@
       <item value="bian'l" />
       <item value="l" />
       <item value="swipe" />
-      <item value="swip" />
-      <item value="s'w" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
+        <entry key="CHINESE" value="430" />
         <entry key="ENGLISH" value="388" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
