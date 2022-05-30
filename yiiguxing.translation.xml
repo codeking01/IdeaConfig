@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="486" />
+    <option name="newTranslationDialogWidth" value="484" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="throttle" />
+      <item value="thro" />
+      <item value="th" />
       <item value="inflate" />
       <item value="block" />
       <item value="bloc'd" />
@@ -53,13 +56,10 @@
       <item value="swipe" />
       <item value="swip" />
       <item value="s'w" />
-      <item value="mock" />
-      <item value="The &lt;template&gt; HTML element is a mechanism for holding HTML that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript. Think of a template as a content fragment that is being stored for subsequent use in the document. While the parser does process the contents of the &lt;template&gt; element while loading the page, it does so only to ensure that those contents are valid; the element's contents are not rendered, however." />
-      <item value="A Jetbrains plugin providing shortcuts to open or copy a file, directory or commit in GitHub, Bitbucket, GitLab, Gitee Gitea, Gogs or Azure. Custom hosts can also be configured using the URL template syntax." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
+        <entry key="CHINESE" value="429" />
         <entry key="ENGLISH" value="388" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
