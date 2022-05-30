@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="block" />
+      <item value="bloc'd" />
+      <item value="bloc" />
       <item value="完成vuex模块" />
       <item value="完成vuex" />
       <item value="完成" />
@@ -53,14 +56,11 @@
       <item value="The &lt;template&gt; HTML element is a mechanism for holding HTML that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript. Think of a template as a content fragment that is being stored for subsequent use in the document. While the parser does process the contents of the &lt;template&gt; element while loading the page, it does so only to ensure that those contents are valid; the element's contents are not rendered, however." />
       <item value="A Jetbrains plugin providing shortcuts to open or copy a file, directory or commit in GitHub, Bitbucket, GitLab, Gitee Gitea, Gogs or Azure. Custom hosts can also be configured using the URL template syntax." />
       <item value="Adds ability to work with GitExtensions application from IDEs based on the IntelliJ platform" />
-      <item value="Extends Git Integration with additional features: project view decoration, inline blame and much more Status display, auto fetch, inline blame annotation, commit dialog completion, behind notifications and more..." />
-      <item value="提取" />
-      <item value="daochu " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="388" />
         <entry key="ICELANDIC" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="INDONESIAN" value="1" />
