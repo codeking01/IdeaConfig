@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="460" />
+    <option name="newTranslationDialogWidth" value="458" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="seri" />
+      <item value="se'r" />
+      <item value="se" />
       <item value=" Input contains NaN, infinity or a value too large for dtype('float32')." />
       <item value="loc" />
       <item value="The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()." />
@@ -53,14 +56,11 @@
       <item value="Typescript Component Folding: This plugin groups files which have same name and different extensions. File name groupings: component|service|pipe|guard|directive|actions|effects|reducer|selectors|state|resolver|datasource|model Extensions folded: css|sass|scss|stylus|styl|less|html|haml|pug|ts|js|json|spec\.ts|.\.ts For instance, app.component.ts, app.component.css, app.component.html, app.component..ts will be grouped a virtual folder named app.component." />
       <item value="payload" />
       <item value="pay" />
-      <item value="Noncompliant; have we forgotten '+' operator on previous line?" />
-      <item value="Noncompliant; was assignment intended?" />
-      <item value="Any statement (other than a null statement, which means a statement containing only a semicolon ;) which has no side effect and does not result in a change of control flow will normally indicate a programming error, and therefore should be refactored." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
