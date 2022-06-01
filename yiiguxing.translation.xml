@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="464" />
+    <option name="newTranslationDialogWidth" value="462" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="loc" />
       <item value="The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()." />
       <item value="row_indexer" />
       <item value="socket" />
@@ -55,11 +56,10 @@
       <item value="Noncompliant; was assignment intended?" />
       <item value="Any statement (other than a null statement, which means a statement containing only a semicolon ;) which has no side effect and does not result in a change of control flow will normally indicate a programming error, and therefore should be refactored." />
       <item value="减" />
-      <item value="jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
+        <entry key="CHINESE" value="487" />
         <entry key="ENGLISH" value="444" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
