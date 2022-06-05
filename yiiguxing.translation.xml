@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="throttle" />
       <item value="Global overlay" />
       <item value="spinner" />
       <item value="IdeaVim supports many Vim features including normalinsertvisual modes, motion keys, deletionchanging, marks, registers, some Ex commands, Vim regexps, configuration via ~.ideavimrc, macros, Vim plugins, etc." />
@@ -40,7 +41,6 @@
       <item value="插件" />
       <item value="Programmatically navigate to a new URL by replacing the current entry in the history stack" />
       <item value="dataset" />
-      <item value="throttle" />
       <item value="thro" />
       <item value="th" />
       <item value="inflate" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
