@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="452" />
+    <option name="newTranslationDialogWidth" value="448" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value=" ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''" />
+      <item value="缺失" />
       <item value="concatenate" />
       <item value="Field elements must be 2- or 3-tuples, got ''Con_2''" />
       <item value="throttle" />
@@ -54,13 +56,11 @@
       <item value="完成" />
       <item value="wanch" />
       <item value="hook" />
-      <item value="Category List" />
-      <item value="妈妈" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="458" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
