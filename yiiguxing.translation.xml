@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="concatenate" />
       <item value="Field elements must be 2- or 3-tuples, got ''Con_2''" />
       <item value="throttle" />
       <item value="Global overlay" />
@@ -55,12 +56,11 @@
       <item value="hook" />
       <item value="Category List" />
       <item value="妈妈" />
-      <item value="Prototype" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
