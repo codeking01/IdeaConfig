@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="448" />
+    <option name="newTranslationDialogWidth" value="446" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="emblematic" />
+      <item value="emble" />
+      <item value="embl" />
+      <item value="em" />
       <item value=" ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''" />
       <item value="缺失" />
       <item value="concatenate" />
@@ -52,14 +56,10 @@
       <item value="bloc'd" />
       <item value="bloc" />
       <item value="完成vuex模块" />
-      <item value="完成vuex" />
-      <item value="完成" />
-      <item value="wanch" />
-      <item value="hook" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
+        <entry key="CHINESE" value="504" />
         <entry key="ENGLISH" value="458" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654136160822" />
+    <option name="lastTrimTime" value="1654612719970" />
   </component>
 </application>
