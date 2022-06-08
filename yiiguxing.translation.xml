@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="It is possible to use await on values which are not Promises, but it’s useless and misleading. The point of await is to pause execution until the Promise's asynchronous code has run to completion. With anything other than a Promise, there’s nothing to wait for.&#10;This rule raises an issue when an awaited value is guaranteed not to be a Promise." />
       <item value="Operating system environment" />
       <item value="操作系统环境" />
       <item value="state" />
@@ -55,11 +56,10 @@
       <item value="thro" />
       <item value="th" />
       <item value="inflate" />
-      <item value="block" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
+        <entry key="CHINESE" value="512" />
         <entry key="ENGLISH" value="463" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
