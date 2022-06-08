@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="446" />
+    <option name="newTranslationDialogWidth" value="444" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="state" />
       <item value="emblematic" />
       <item value="emble" />
       <item value="embl" />
@@ -55,12 +56,11 @@
       <item value="block" />
       <item value="bloc'd" />
       <item value="bloc" />
-      <item value="完成vuex模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="463" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
