@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="442" />
-    <option name="newTranslationDialogWidth" value="444" />
+    <option name="newTranslationDialogWidth" value="442" />
     <option name="newTranslationDialogX" value="542" />
     <option name="newTranslationDialogY" value="33" />
     <histories>
+      <item value="Operating system environment" />
+      <item value="操作系统环境" />
       <item value="state" />
       <item value="emblematic" />
       <item value="emble" />
@@ -54,12 +56,10 @@
       <item value="th" />
       <item value="inflate" />
       <item value="block" />
-      <item value="bloc'd" />
-      <item value="bloc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
+        <entry key="CHINESE" value="511" />
         <entry key="ENGLISH" value="463" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
