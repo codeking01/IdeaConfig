@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="709" />
+    <option name="newTranslationDialogWidth" value="707" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="六月" />
+      <item value="liu" />
       <item value="TS2345: Argument of type 'any' is not assignable to parameter of type 'never'." />
       <item value="&#10;TS2345: Argument of type '&quot;AttrInfo&quot;' is not assignable to parameter of type '&quot;trademarkList&quot;'." />
       <item value="TS2345: Argument of type '&quot;AddrInfo&quot;' is not assignable to parameter of type '&quot;trademarkList&quot;'." />
@@ -54,13 +56,11 @@
       <item value="Dolor clita stet nonumy clita diam vero， et ipsum diam labore" />
       <item value="data-cfasync" />
       <item value="data" />
-      <item value="ata-cfasync" />
-      <item value="horizontal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="471" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654612719970" />
+    <option name="lastTrimTime" value="1655090112994" />
   </component>
 </application>
