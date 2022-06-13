@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="stratify" />
       <item value="能用的" />
       <item value="缺失" />
       <item value="लेंथ" />
@@ -55,12 +56,11 @@
       <item value="这是一个强大的" />
       <item value="Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et" />
       <item value="下面是我们的联系方式" />
-      <item value="下面是我们的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
