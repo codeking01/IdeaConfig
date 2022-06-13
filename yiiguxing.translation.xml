@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="707" />
+    <option name="newTranslationDialogWidth" value="701" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="缺失" />
+      <item value="लेंथ" />
+      <item value="lenth" />
+      <item value="冗余的" />
+      <item value="rong'yu" />
+      <item value="rong" />
+      <item value="r" />
       <item value="六月" />
       <item value="liu" />
       <item value="TS2345: Argument of type 'any' is not assignable to parameter of type 'never'." />
@@ -27,7 +34,6 @@
       <item value="embl" />
       <item value="em" />
       <item value=" ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''" />
-      <item value="缺失" />
       <item value="concatenate" />
       <item value="Field elements must be 2- or 3-tuples, got ''Con_2''" />
       <item value="throttle" />
@@ -50,17 +56,11 @@
       <item value="下面是我们的联系方式" />
       <item value="下面是我们的" />
       <item value="xia'mian'shi'wo'me" />
-      <item value="xia'mian'shi" />
-      <item value="xia" />
-      <item value="Dolor clita stet nonumy clita diam vero, et et ipsum diam labore" />
-      <item value="Dolor clita stet nonumy clita diam vero， et ipsum diam labore" />
-      <item value="data-cfasync" />
-      <item value="data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="484" />
         <entry key="ICELANDIC" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
