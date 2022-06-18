@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="Del deletion data" />
+      <item value="Ada Boost Classifier" />
       <item value="Classification metrics can't handle a mix of unknown and binary targets" />
       <item value="验证" />
       <item value="yan" />
@@ -54,22 +56,21 @@
       <item value="only size-1 arrays can be converted to Python scalars" />
       <item value=" Input contains NaN, infinity or a value too large for dtype('float32')." />
       <item value="seri" />
-      <item value="se'r" />
-      <item value="se" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655090112994" />
+    <option name="lastTrimTime" value="1655538773055" />
   </component>
 </application>
