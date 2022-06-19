@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="115" />
     <histories>
+      <item value="Quadratic Discriminant Analysis" />
+      <item value="Linear Discriminant Analysis" />
       <item value="建模" />
       <item value="jian'mo" />
       <item value="jianmo" />
@@ -54,13 +56,11 @@
       <item value="em" />
       <item value=" ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''" />
       <item value="concatenate" />
-      <item value="Field elements must be 2- or 3-tuples, got ''Con_2''" />
-      <item value="throttle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="ENGLISH" value="542" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
