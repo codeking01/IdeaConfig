@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="687" />
+    <option name="newTranslationDialogWidth" value="685" />
     <option name="newTranslationDialogX" value="512" />
-    <option name="newTranslationDialogY" value="115" />
+    <option name="newTranslationDialogY" value="29" />
     <histories>
+      <item value="合并" />
+      <item value="hebi" />
+      <item value="heb" />
       <item value="Quadratic Discriminant Analysis" />
       <item value="Linear Discriminant Analysis" />
       <item value="建模" />
@@ -53,14 +56,11 @@
       <item value="emblematic" />
       <item value="emble" />
       <item value="embl" />
-      <item value="em" />
-      <item value=" ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''" />
-      <item value="concatenate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="550" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
