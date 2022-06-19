@@ -6,10 +6,10 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="29" />
     <histories>
+      <item value="Quadratic Discriminant Analysis" />
       <item value="合并" />
       <item value="hebi" />
       <item value="heb" />
-      <item value="Quadratic Discriminant Analysis" />
       <item value="Linear Discriminant Analysis" />
       <item value="建模" />
       <item value="jian'mo" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
