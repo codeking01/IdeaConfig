@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="29" />
     <histories>
+      <item value="stratify" />
       <item value="Dtype Warning" />
       <item value="DtypeWarning: Columns (16,23) have mixed types. Specify dtype option on import or set low_memory=False. data = read_csv(f)" />
       <item value="DtypeWarning: Columns (16,23) have mixed types." />
@@ -28,7 +29,6 @@
       <item value="验证" />
       <item value="yan" />
       <item value="intersection" />
-      <item value="stratify" />
       <item value="泡点" />
       <item value="paodei" />
       <item value="justify-content" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
