@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="29" />
     <histories>
+      <item value="interval" />
       <item value="gist" />
       <item value="占位盒子" />
       <item value="占位" />
@@ -18,7 +19,6 @@
       <item value="Dtype Warning" />
       <item value="DtypeWarning: Columns (16,23) have mixed types. Specify dtype option on import or set low_memory=False. data = read_csv(f)" />
       <item value="DtypeWarning: Columns (16,23) have mixed types." />
-      <item value="interval" />
       <item value="move Rel" />
       <item value="Quadratic Discriminant Analysis" />
       <item value="合并" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
