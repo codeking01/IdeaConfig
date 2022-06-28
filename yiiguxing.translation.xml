@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="681" />
+    <option name="newTranslationDialogWidth" value="679" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="29" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="django.template.exceptions.TemplateDoesNotExist: info.html" />
       <item value="INSTALLED APPS" />
       <item value="java.lang.IllegalArgumentException: button doesn't exist 0" />
       <item value="100" />
@@ -55,12 +57,11 @@
       <item value="r" />
       <item value="六月" />
       <item value="liu" />
-      <item value="TS2345: Argument of type 'any' is not assignable to parameter of type 'never'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="584" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
