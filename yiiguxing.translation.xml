@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="675" />
+    <option name="newTranslationDialogWidth" value="673" />
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="56" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="department" />
+      <item value="departmen't" />
+      <item value="depart" />
+      <item value="depa" />
+      <item value="department list" />
       <item value="striped" />
       <item value="Please select a fix: 1) Provide a one-off default now (will be set on all existing rows with a null value for this column) 2) Quit and manually define a default value in models.py." />
       <item value="Database development, scripting and navigation tool This product adds extensive database development and maintenance capabilities to the IntelliJ IDEA development environment and related products. Along with a qualified and IDE-compliant SQL and PLSQL editor, it provides advanced database connection management, script execution support, database objects browsing, data and code editor, support for database compiler operations, method execution and debugging, database objects factory, as well as various navigation capabilities between all its components." />
@@ -52,16 +57,11 @@
       <item value="argsort" />
       <item value="能用的" />
       <item value="缺失" />
-      <item value="लेंथ" />
-      <item value="lenth" />
-      <item value="冗余的" />
-      <item value="rong'yu" />
-      <item value="rong" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="589" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
