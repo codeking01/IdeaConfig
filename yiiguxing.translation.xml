@@ -1,12 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="445" />
-    <option name="newTranslationDialogWidth" value="673" />
+    <option name="newTranslationDialogHeight" value="462" />
+    <option name="newTranslationDialogWidth" value="669" />
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="56" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="render" />
+      <item value="GET" />
+      <item value="widget" />
+      <item value="w" />
+      <item value="context" />
       <item value="department" />
       <item value="departmen't" />
       <item value="depart" />
@@ -52,16 +57,11 @@
       <item value="intersection" />
       <item value="泡点" />
       <item value="paodei" />
-      <item value="justify-content" />
-      <item value="-1" />
-      <item value="argsort" />
-      <item value="能用的" />
-      <item value="缺失" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="593" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
