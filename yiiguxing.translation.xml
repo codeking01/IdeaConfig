@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="56" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="instance" />
       <item value="'create_time' cannot be specified for UserInfo model form as it is a non-editable field" />
       <item value="render" />
       <item value="GET" />
@@ -56,12 +57,11 @@
       <item value="验证" />
       <item value="yan" />
       <item value="intersection" />
-      <item value="泡点" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656228314432" />
+    <option name="lastTrimTime" value="1656684680218" />
   </component>
 </application>
