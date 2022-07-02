@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="462" />
-    <option name="newTranslationDialogWidth" value="669" />
+    <option name="newTranslationDialogWidth" value="667" />
     <option name="newTranslationDialogX" value="432" />
-    <option name="newTranslationDialogY" value="56" />
+    <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="致命" />
+      <item value="zhi'ming" />
+      <item value="zhi'min" />
+      <item value="zhi'mu" />
+      <item value="严重" />
       <item value="instance" />
       <item value="'create_time' cannot be specified for UserInfo model form as it is a non-editable field" />
       <item value="render" />
@@ -52,16 +57,11 @@
       <item value="qia" />
       <item value="qiang" />
       <item value="Del deletion data" />
-      <item value="Ada Boost Classifier" />
-      <item value="Classification metrics can't handle a mix of unknown and binary targets" />
-      <item value="验证" />
-      <item value="yan" />
-      <item value="intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="595" />
+        <entry key="CHINESE" value="654" />
+        <entry key="ENGLISH" value="616" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
