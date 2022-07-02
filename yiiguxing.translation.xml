@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="aria-expanded" />
       <item value="致命" />
       <item value="zhi'ming" />
       <item value="zhi'min" />
@@ -56,12 +57,11 @@
       <item value="前三个" />
       <item value="qia" />
       <item value="qiang" />
-      <item value="Del deletion data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
