@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="encode" />
+      <item value="n" />
       <item value="clearfix" />
       <item value="aria-expanded" />
       <item value="致命" />
@@ -55,13 +57,11 @@
       <item value="建模" />
       <item value="jian'mo" />
       <item value="jianmo" />
-      <item value="前三个" />
-      <item value="qia" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="ENGLISH" value="620" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
