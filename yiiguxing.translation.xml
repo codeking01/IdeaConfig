@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hexdigest" />
+      <item value="render value" />
       <item value="paginate by" />
       <item value="insert into myapp_admininfo (name, password) values ('codeking',123456);" />
       <item value="has next" />
@@ -55,14 +57,13 @@
       <item value="django.template.exceptions.TemplateDoesNotExist: info.html" />
       <item value="INSTALLED APPS" />
       <item value="java.lang.IllegalArgumentException: button doesn't exist 0" />
-      <item value="100" />
-      <item value="interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="639" />
         <entry key="ICELANDIC" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
