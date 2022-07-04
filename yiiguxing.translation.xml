@@ -7,8 +7,8 @@
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="hexdigest" />
       <item value="render value" />
+      <item value="hexdigest" />
       <item value="paginate by" />
       <item value="insert into myapp_admininfo (name, password) values ('codeking',123456);" />
       <item value="has next" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="674" />
-        <entry key="ENGLISH" value="639" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="640" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
