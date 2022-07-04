@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="462" />
-    <option name="newTranslationDialogWidth" value="653" />
+    <option name="newTranslationDialogWidth" value="649" />
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="has next" />
+      <item value="文章" />
+      <item value="class" />
+      <item value="当前第" />
+      <item value="we" />
+      <item value="info" />
       <item value="page obj" />
       <item value="student" />
       <item value="studen" />
@@ -51,17 +57,11 @@
       <item value="interval" />
       <item value="gist" />
       <item value="占位盒子" />
-      <item value="占位" />
-      <item value="zhan'wei" />
-      <item value="页面模板" />
-      <item value="页面" />
-      <item value="前台页面" />
-      <item value="qian'tai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="635" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
@@ -78,7 +78,7 @@
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="32889383c71514d8 " />
+        <option name="appId" value="32889383c71514d8" />
       </youdao-translate>
     </option>
   </component>
