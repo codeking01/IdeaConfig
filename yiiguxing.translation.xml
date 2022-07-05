@@ -2,11 +2,23 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="462" />
-    <option name="newTranslationDialogWidth" value="649" />
+    <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="27" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="widget&#10;" />
+      <item value="wiget&#10;" />
+      <item value="wiet&#10;" />
+      <item value="wieet&#10;" />
+      <item value="wiweet&#10;" />
+      <item value="wiweget&#10;" />
+      <item value="wieget&#10;" />
+      <item value="wideget&#10;" />
+      <item value="wideget" />
+      <item value="widege" />
+      <item value="wi" />
+      <item value="w" />
       <item value="render value" />
       <item value="hexdigest" />
       <item value="paginate by" />
@@ -44,24 +56,12 @@
       <item value="render" />
       <item value="GET" />
       <item value="widget" />
-      <item value="w" />
       <item value="context" />
-      <item value="department" />
-      <item value="departmen't" />
-      <item value="depart" />
-      <item value="depa" />
-      <item value="department list" />
-      <item value="striped" />
-      <item value="Please select a fix: 1) Provide a one-off default now (will be set on all existing rows with a null value for this column) 2) Quit and manually define a default value in models.py." />
-      <item value="Database development, scripting and navigation tool This product adds extensive database development and maintenance capabilities to the IntelliJ IDEA development environment and related products. Along with a qualified and IDE-compliant SQL and PLSQL editor, it provides advanced database connection management, script execution support, database objects browsing, data and code editor, support for database compiler operations, method execution and debugging, database objects factory, as well as various navigation capabilities between all its components." />
-      <item value="django.template.exceptions.TemplateDoesNotExist: info.html" />
-      <item value="INSTALLED APPS" />
-      <item value="java.lang.IllegalArgumentException: button doesn't exist 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="640" />
+        <entry key="CHINESE" value="676" />
+        <entry key="ENGLISH" value="641" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
